@@ -1,5 +1,8 @@
 # Scoodle
 
+> [!CAUTION]
+> De lokale methode is nog niet klaar -> ik probeer dit op te lossen tegen 14/01/2024
+
 Een hack voor [scoodle](https://scoodle.be)
 Voeg @phishing_123 op snapchat voor hulp
 
@@ -55,5 +58,4 @@ Nadelen:
 - [ ] Ondersteuning voor alle vragen(nu werkt het nog niet voor alle vragen)
 - [ ] Mooiere ui
 - [ ] Code opkuisen
-- [ ] *Niet* buizen voor een examen (mislukt in 2023)
 - [ ] ???
