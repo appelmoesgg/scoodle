@@ -55,4 +55,5 @@ Nadelen:
 - [ ] Ondersteuning voor alle vragen(nu werkt het nog niet voor alle vragen)
 - [ ] Mooiere ui
 - [ ] Code opkuisen
+- [ ] *Niet* buizen voor een examen (mislukt in 2023)
 - [ ] ???
