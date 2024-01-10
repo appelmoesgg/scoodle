@@ -3,12 +3,13 @@
 Een hack voor [scoodle](https://scoodle.be)
 Voeg @phishing_123 op snapchat voor hulp
 
-## Hoe gebruik ik dit?
+# Hoe gebruik ik dit?
 Er zijn 2 methodes die je kan gebruiken:
 - Replit
 - Lokaal
 
-### Replit
+## Hoe installeer ik dit?
+## Replit
 1. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
 2. Fork mijn repl ![Fork](https://github.com/appelmoesgg/scoodle/blob/main/fork.jpg)
 3. Klik op run / het play icoontje
@@ -24,7 +25,7 @@ Nadelen:
 - Kan niet gebruikt worden als je school replit heeft geblokkeerd
 - Minder handig om zelf dingen toe te voegen in een andere programmeertaal
 
-### Lokaal
+## Lokaal
 Deze methode gaat ervan uit dat je een chromebook hebt waarop je de "Linux-ontwikkelomgeving" kunt aanzetten.
 Maak een issue aan als je het getest hebt op een ander apparaat en het werkt. (Ik voeg het hier wel toe)
 > [!TIP]
@@ -50,7 +51,7 @@ Nadelen:
 - Iets moeilijker
 
 
-### Doelen 2024
+## Doelen 2024
 - [ ] Ondersteuning voor alle vragen(nu werkt het nog niet voor alle vragen)
 - [ ] Mooiere ui
 - [ ] Code opkuisen
