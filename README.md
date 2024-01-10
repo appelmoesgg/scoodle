@@ -1,10 +1,12 @@
 # Scoodle
 
+Een hack voor [scoodle](https://scoodle.be).  
+Voeg @phishing_123 op snapchat voor hulp  
+  
+  
 > [!CAUTION]
 > De lokale methode is nog niet klaar -> ik probeer dit op te lossen tegen 14/01/2024
 
-Een hack voor [scoodle](https://scoodle.be)
-Voeg @phishing_123 op snapchat voor hulp
 
 # Hoe gebruik ik dit?
 Er zijn 2 methodes die je kan gebruiken:
