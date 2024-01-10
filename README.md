@@ -61,3 +61,11 @@ Nadelen:
 - [ ] Mooiere ui
 - [ ] Code opkuisen
 - [ ] ???
+  
+  
+
+
+> [!NOTE]
+> Ik, appelmoesGG, ben op geen enkele manier verantwoordelijk voor het gebruik van dit programma.  
+> Dit programma is gemaakt als POC (proof of concept) en om dit probleem te tonen aan Scoodle.  
+> Veel plezier lol  
