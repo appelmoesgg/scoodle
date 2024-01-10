@@ -1,6 +1,7 @@
 # Scoodle
 
 Een hack voor [scoodle](https://scoodle.be)
+Voeg @phishing_123 op snapchat voor hulp
 
 ## Hoe gebruik ik dit?
 Er zijn 2 methodes die je kan gebruiken:
@@ -8,10 +9,10 @@ Er zijn 2 methodes die je kan gebruiken:
 - Lokaal
 
 ### Replit
-1. Maak een account aan op [repl.it]("https://replit.com")
-2. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
-3. Fork mijn repl (Klik [hier](https://www.youtube.com/watch?v=dLE86yYZLFg) als je niet weet hoe dit moet)
-4. Klik op run / het play icoontje
+1. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
+2. Fork mijn repl ![Fork](http://url/to/img.png)
+3. Klik op run / het play icoontje
+4. Open in nieuw tablad ![Nieuw tabblad](http://url/to/img.png)
 5. Klaar
 
 ### Lokaal
@@ -20,9 +21,10 @@ Maak een issue aan als je het getest hebt op een ander apparaat en het werkt. (I
 
 1. Installeer de ontwikkelomgeving([Hier](https://support.google.com/chromebook/answer/9145439?hl=en) een goede tutorial)
 2. Open Linux zodat je `[naam]@penguin: ~$`(vanaf nu je "prompt") ziet
-3. Voer volgende commando's uit. (ctrl + c ctrl + v werkt niet dus typ het over en druk op enter en wacht tot je weer je prompt ziet)
-4. `sudo apt install git` 
+3. Voer volgende commando's uit: (Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet)
+4. `sudo apt install git`
 5. `git clone https://github.com/appelmoesgg/scoodle`
 6. `cd scoodle`
 7. `chmod +x autorun.sh`
 8. `./autoinstall.sh`
+9. Klaar -> nu kan je dit altijd starten door het commando `scoodle-hack` uit te voeren
