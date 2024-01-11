@@ -13,7 +13,7 @@ Er zijn 2 methodes die je kan gebruiken:
 - Replit
 - Lokaal
 
-## Hoe installeer ik dit?
+# Hoe installeer ik dit?
 ## Replit
 1. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
 2. Fork mijn repl ![Fork](https://github.com/appelmoesgg/scoodle/blob/main/fork.jpg)
