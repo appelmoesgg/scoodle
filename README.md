@@ -13,6 +13,8 @@ Er zijn 2 methodes die je kan gebruiken:
 - Replit
 - Lokaal
 
+Kijk het filmpje bij tutorial nadat je alles geïnstalleerd hebt en dan zou je alles moeten weten wat je nodig hebt
+
 # Hoe installeer ik dit?
 ## Replit
 1. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
