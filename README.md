@@ -60,7 +60,7 @@ Nadelen:
 
 ## Doelen 2024
 - [ ] Ondersteuning voor alle vragen(nu werkt het nog niet voor alle vragen)
-- [ ] Mooiere ui
+- [ ] Mooiere UI
 - [ ] Code opkuisen
 - [ ] ???
   
