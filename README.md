@@ -5,7 +5,7 @@ Voeg @phishing_123 op snapchat voor hulp
   
   
 > [!CAUTION]
-> De lokale methode is nog niet klaar -> ik probeer dit op te lossen tegen 14/01/2024
+> School verwijderd ineens linux op chromebook -> Lokale methode niet meer beschikbaar
 
 
 # Hoe gebruik ik dit?
@@ -39,15 +39,13 @@ Maak een issue aan als je het getest hebt op een ander apparaat en het werkt. (I
 > Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet
 
 
-1. Installeer de ontwikkelomgeving([Hier](https://support.google.com/chromebook/answer/9145439?hl=en) een goede tutorial)
-2. Open Linux zodat je `[naam]@penguin: ~$`(vanaf nu je "prompt") ziet
-3. Voer volgende commando's uit: (Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet)
-4. `sudo apt install git`
-5. `git clone https://github.com/appelmoesgg/scoodle`
-6. `cd scoodle`
-7. `chmod +x autorun.sh`
-8. `./autoinstall.sh`
-9. Klaar -> nu kan je dit altijd starten door het commando `scoodle-hack` uit te voeren
+1. Voer volgende commando's uit: (Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet)
+2. `sudo apt install git`
+3. `git clone https://github.com/appelmoesgg/scoodle`
+4. `cd scoodle`
+5. `chmod +x autorun.sh`
+6. `./autoinstall.sh`
+7. Klaar -> nu kan je dit altijd starten door het commando `scoodle-hack` uit te voeren
 
 Voordelen:
 - Kan gebruikt worden als replit offline is
