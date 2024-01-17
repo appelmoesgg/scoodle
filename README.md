@@ -5,7 +5,7 @@ Voeg @phishing_123 op snapchat voor hulp
   
   
 > [!CAUTION]
-> Lokale methode werkt nog niet...
+> Lokale methode werkt nog niet want ik heb hier nog geen bestanden voor geupload
 
 
 # Hoe gebruik ik dit?
@@ -34,12 +34,12 @@ Nadelen:
 
 ## Lokaal
 Deze methode gaat ervan uit dat je linux hebt.
-Maak een issue aan als je het getest hebt op een ander apparaat en het werkt. (Ik voeg het hier wel toe)
+Windows is nog niet ondersteund (contribute als je het zelf maakt)
 > [!TIP]
 > Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet
 
 
-1. Installatiecommando's
+1. Voer volgende commando's uit:
 2. `sudo apt install git`
 3. `git clone https://github.com/appelmoesgg/scoodle`
 4. `cd scoodle`
