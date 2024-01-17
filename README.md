@@ -38,7 +38,7 @@ Windows is nog niet ondersteund (contribute als je het zelf maakt)
 > [!TIP]
 > Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet
 
-# Linux
+### Linux
 1. Voer volgende commando's uit:
 2. `sudo apt install git`
 3. `git clone https://github.com/appelmoesgg/scoodle`
@@ -47,7 +47,7 @@ Windows is nog niet ondersteund (contribute als je het zelf maakt)
 6. `./autoinstall.sh`
 7. Klaar -> nu kan je dit altijd starten door het commando `scoodle-hack` uit te voeren
 
-# Windows
+### Windows
   
   
 
