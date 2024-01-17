@@ -5,7 +5,7 @@ Voeg @phishing_123 op snapchat voor hulp
   
   
 > [!CAUTION]
-> School verwijderd ineens linux op chromebook -> Lokale methode niet meer beschikbaar
+> Lokale methode werkt nog niet...
 
 
 # Hoe gebruik ik dit?
@@ -33,13 +33,13 @@ Nadelen:
 - Minder handig om zelf dingen toe te voegen in een andere programmeertaal
 
 ## Lokaal
-Deze methode gaat ervan uit dat je een chromebook hebt waarop je de "Linux-ontwikkelomgeving" kunt aanzetten.
+Deze methode gaat ervan uit dat je linux hebt.
 Maak een issue aan als je het getest hebt op een ander apparaat en het werkt. (Ik voeg het hier wel toe)
 > [!TIP]
 > Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet
 
 
-1. Voer volgende commando's uit: (Rechtermuisknop / klikken met 2 vingers om te plakken. CTRL+V werkt niet)
+1. Installatiecommando's
 2. `sudo apt install git`
 3. `git clone https://github.com/appelmoesgg/scoodle`
 4. `cd scoodle`
