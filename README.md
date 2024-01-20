@@ -18,9 +18,10 @@ Kijk het filmpje bij tutorial nadat je alles geïnstalleerd hebt en dan zou je a
 # Hoe installeer ik dit?
 ## Replit
 1. Ga naar deze repl: https://replit.com/@Appelmoes/scoodle
-2. Fork mijn repl ![Fork](https://github.com/appelmoesgg/scoodle/blob/main/fork.jpg)
+2. Fork mijn repl ![fork](https://github.com/appelmoesgg/scoodle/assets/101522959/a0561a98-2d1f-4968-8409-96dda15bb715)
 3. Klik op run / het play icoontje
-4. Open in nieuw tablad ![Nieuw tabblad](https://github.com/appelmoesgg/scoodle/blob/main/tabblad.jpg)
+4. Open in nieuw tablad ![tabblad](https://github.com/appelmoesgg/scoodle/assets/101522959/3f0dfcfe-c193-4fcd-a60b-934943988a36)
+
 5. Klaar
 
 Voordelen:
