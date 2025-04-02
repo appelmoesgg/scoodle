@@ -1,5 +1,8 @@
 # Scoodle
 
+> [!WARNING]
+> Ontwikkeling gestopt, werkt heel misschien nog
+
 Een hack voor [scoodle](https://scoodle.be).  
 Voeg @phishing_123 op snapchat voor hulp  
   
